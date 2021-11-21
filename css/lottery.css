@@ -1,10 +1,23 @@
+#title{
+	font-weight: bold;
+	font-style: normal;
+	text-align: center;
+  	color: rgba(0, 100, 255, 0.3);
+  	font-size: 5vw;
+  	letter-spacing: 6px;
+}
+
+
+
+
+
 .winnerBox {
     max-width: 40rem;
     padding: 30px;
     margin: 30px auto;
     /*height: calc(100vh - 98px);*/
     /*background-color: #fd6504 #9470fd;*/
-    background: linear-gradient(to bottom right, #fd6504, #9470fd)
+    background: white
 }
 
 /* 大转盘样式 */
