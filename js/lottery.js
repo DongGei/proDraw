@@ -7,42 +7,62 @@ var radius = 130;
 var color = ["#fde284", "#fe9103", "rgba(0,0,0,0.5)", "#ffffff", "#b10105", "#fbc605"];
 var winnerList = [{
     id: '1',
-    name: '',
+    name: '麻辣烫 ',
     logo: './images/15jf@2x.png',
     probability: '20%',
 }, {
     id: '2',
-    name: '10经验值',
+    name: '饺子',
     logo: './images/10j@2x.png',
     probability: '10%',
 }, {
     id: '3',
-    name: '100元抵用券',
+    name: '黄焖鸡 ',
     logo: './images/123.png',
     probability: '10%',
 }, {
     id: '4',
-    name: '15积分',
+    name: '拉面',
     logo: './images/15jf@2x.png',
     probability: '10%',
 }, {
     id: '5',
-    name: '20现金券',
+    name: '烤肉拌饭',
     logo: './images/12.png',
     probability: '10%',
 }, {
     id: '6',
-    name: '25经验值',
+    name: '炸酱面',
     logo: './images/25j@2x.png',
     probability: '10%',
 }, {
     id: '7',
-    name: '谢谢参与',
+    name: '羊肉汤 ',
     logo: './images/xx@2x.png',
     probability: '20%',
 }, {
     id: '8',
-    name: '25积分',
+    name: '烤冷面',
+    logo: './images/25jf@2x.png',
+    probability: '10%',
+},{
+    id: '8',
+    name: '汉堡',
+    logo: './images/25jf@2x.png',
+    probability: '10%',
+},{
+    id: '8',
+    name: '土豆粉',
+    logo: './images/25jf@2x.png',
+    probability: '10%',
+},{
+    id: '8',
+    name: '馄饨',
+    logo: './images/25jf@2x.png',
+    probability: '10%',
+},{
+    id: '8',
+    name: '凉皮儿',
     logo: './images/25jf@2x.png',
     probability: '10%',
 }] //奖品列表
