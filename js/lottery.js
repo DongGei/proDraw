@@ -9,62 +9,62 @@ var winnerList = [{
     id: '1',
     name: '麻辣烫 ',
     logo: './images/15jf@2x.png',
-    probability: '20%',
+    probability: '12.5%',
 }, {
     id: '2',
     name: '饺子',
     logo: './images/10j@2x.png',
-    probability: '10%',
+    probability: '12.5%',
 }, {
     id: '3',
     name: '黄焖鸡 ',
     logo: './images/123.png',
-    probability: '10%',
+    probability: '12.5%',
 }, {
     id: '4',
     name: '拉面',
     logo: './images/15jf@2x.png',
-    probability: '10%',
+    probability: '12.5%',
 }, {
     id: '5',
     name: '烤肉拌饭',
     logo: './images/12.png',
-    probability: '10%',
+    probability: '12.5%',
 }, {
     id: '6',
     name: '炸酱面',
     logo: './images/25j@2x.png',
-    probability: '10%',
+    probability: '12.5%',
 }, {
     id: '7',
     name: '羊肉汤 ',
     logo: './images/xx@2x.png',
-    probability: '20%',
+    probability: '12.5%',
 }, {
     id: '8',
     name: '烤冷面',
     logo: './images/25jf@2x.png',
-    probability: '10%',
+    probability: '12.5%',
 },{
     id: '8',
     name: '汉堡',
     logo: './images/25jf@2x.png',
-    probability: '10%',
+    probability: '12.5%',
 },{
     id: '8',
     name: '土豆粉',
     logo: './images/25jf@2x.png',
-    probability: '10%',
+    probability: '12.5%',
 },{
     id: '8',
     name: '馄饨',
     logo: './images/25jf@2x.png',
-    probability: '10%',
+    probability: '12.5%',
 },{
     id: '8',
     name: '凉皮儿',
     logo: './images/25jf@2x.png',
-    probability: '10%',
+    probability: '12.5%',
 }] //奖品列表
 // 有几份扇形
 var number = winnerList.length;
